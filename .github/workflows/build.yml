@@ -22,7 +22,7 @@ jobs:
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
-          ksu: true
+          ksu: false
           ksu-version: main
           aosp-clang-version: r547379
           disable-lto: true
